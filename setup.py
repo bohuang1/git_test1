@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='funniest2',
-      version='0.1',
+      version='0.2',
       description='The funniest joke in the world',
       url='https://github.com/bohuang1/git_test1',
       author='Flying Circus',
